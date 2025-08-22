@@ -1,6 +1,6 @@
 # Excel Data Analytics Project
 
-## Salary Dashboard
+## Project_1: Salary Dashboard
 This dashboard helps job seekers investigate salaries for their desired jobs.
 [Checkout my work herel](Project_1-Dashboard)
 <img width="919" height="367" alt="Screenshot 2025-08-22 at 06 24 31" src="https://github.com/user-attachments/assets/9c96f78c-2f10-4639-b2a6-818a1dcf8016" />
