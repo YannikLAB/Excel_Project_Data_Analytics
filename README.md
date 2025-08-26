@@ -94,7 +94,3 @@ I dove into this project to raise my excel skills to the next level and gain a b
 ## Acknowledgements
 I want to express my gratitude to Data Analyst and YouTuber Luke Barousse, whose guidance has been invaluable to me during this project.
 
-### Salary Analysis
-This analysis helps both employers and employees understsand the optimal skillset for jobs in the data sciende market.  
-Employees can use this analysis to inspect which skills top employers request.  
-Employers can use it to learn about the right skill set for a given role.  
